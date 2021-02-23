@@ -6,7 +6,7 @@
   <h3 align="center">Connect any android device over wifi</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    with just one click!
     <br />
     <a href="https://github.com/AjejeBrazorf/connectMy/issues">Report Bug</a>
     ·
