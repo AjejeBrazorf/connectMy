@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Terminal=true
+Type=Application
+Name=Connect my
+Exec=bash -c "~/.connectMy/showMy.sh; bash exec"
+Icon=/home/ your name /.connectMy/images/logo.svg
+
+X-Desktop-File-Install-Version=0.24
